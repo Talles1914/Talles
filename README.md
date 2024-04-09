@@ -9,7 +9,7 @@
 
 - Para contato **tallesariel@hotmail.com**
 
-- Compartilho meus projetos pessoais no [www.linkedin.com/in/tallesariel](www.linkedin.com/in/tallesariel)
+- Compartilho meus projetos no [www.linkedin.com/in/tallesariel](www.linkedin.com/in/tallesariel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
