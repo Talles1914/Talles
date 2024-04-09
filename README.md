@@ -1,17 +1,15 @@
-<h1 align="center">Oi 👋, eu sou Talles Ariel</h1>
-<h3 align="center">Sou estudante de tecnologia apaixonado por análise de dados!</h3>
+<h1 align="center">Sejam bem vindos, eu sou Talles Ariel</h1>
+<h3 align="center">Estudante de tecnologia e análise de dados</h3>
 
-- 🔭 Atualmente estou estudando e desenvolvendo projetos pessoais **Portifólio Analytics**
+- Atualmente estudo análise de dados  
 
-- 🌱 Atualmente estou aprendendo **Análise de dados com Python**
+- Atualmente estou aprendendo **Análise de dados com Python**
 
-- Compartilho conteúdo no linkdin [Linkdin Data](www.linkedin.com/in/tallesariel)
+- Conhecimentos em **SQL, Power BI, Excel e Python**
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
+- Para contato **tallesariel@hotmail.com**
 
-- 📫 Meu contato é **tallesariel@hotmail.com**
-
-- 📄 Compartilho meus projetos pessoais no [www.linkedin.com/in/tallesariel](www.linkedin.com/in/tallesariel)
+- Compartilho meus projetos pessoais no [www.linkedin.com/in/tallesariel](www.linkedin.com/in/tallesariel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
