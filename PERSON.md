@@ -1,12 +1,13 @@
-<h1 align="center">Bem vindo, sou Talles Ariel!</h1>
-<h3 align="center">Tecnologia, análise de dados e business intelligence</h3>
+<h1 align="center">Talles Ariel</h1>
+<h3 align="center">Tecnologia, Data Analytics & Business Intelligence</h3>
 
-- Atuando em análise de dados e business intelligence
+- Atuando com análise de dados e business intelligence.
   
-- Estudando análise e desenvolvimento de sistemas
+- Cursando análise e desenvolvimento de sistemas.
 
-- Conhecimentos em **SQL, Power BI, Excel e Python** 
+- Conhecimentos em **Linguagem SQL, Python, Power BI, Pacote Office**
 
+- Nível de inglês intermediário.
 
 
 
