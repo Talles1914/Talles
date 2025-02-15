@@ -1,9 +1,9 @@
 <h1 align="center">Talles Ariel</h1>
-<h3 align="center">Tecnologia, Data Analytics & Business Intelligence</h3>
+<h3 align="center">Business Intelligence</h3>
 
-- Atuando com análise de dados e business intelligence.
+- Atuando com business intelligence.
   
-- Cursando análise e desenvolvimento de sistemas.
+- Estudante gestão, negócios e tecnologia.
 
 - Conhecimentos em **Linguagem SQL, Python, Power BI, Pacote Office**
 
